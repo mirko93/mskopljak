@@ -67,7 +67,7 @@
         <ul class="ml-6">
           <li class="checkmark mb-6">Netflix-clone (PHP / MySQL / jQuery) <a class="text-teal-500" href="https://github.com/mirko93/NetflixClone" target="_blank">NetFlix-clone</a></li>
           <li class="checkmark mb-6">Instagram-clone (Laravel / VueJs) <a class="text-teal-500" href="https://github.com/mirko93/instagram-clone" target="_blank">Instagram-clone</a></li>
-          <li class="checkmark mb-6">Contact Application (Laravel-API-VueJS) <a class="text-teal-500" href="https://github.com/mirko93/Laravel-API-VueJS" target="_blank">Instagram-clone</a></li>
+          <li class="checkmark mb-6">Contact Application (Laravel-API-VueJS) <a class="text-teal-500" href="https://github.com/mirko93/Laravel-API-VueJS" target="_blank">Contact App</a></li>
           <li class="checkmark mb-6">Final work at the academy I attended (PHP / MySQL) <a class="text-teal-500" href="https://github.com/mirko93/php-mini-projects/tree/master/blog" target="_blank">Blog</a></li>
           <li class="checkmark mb-6">Google Clone (PHP / MySQL / JS) <a class="text-teal-500" href="https://github.com/mirko93/php-mini-projects/tree/master/google-clone" target="_blank">Doodle :)</a></li>
           <li class="checkmark mb-6">Suggest Search <a class="text-teal-500" href="https://github.com/mirko93/php-mini-projects/tree/master/suggest-search" target="_blank">Search</a></li>
