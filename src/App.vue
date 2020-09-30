@@ -2,7 +2,6 @@
 <section>
     <header class="border-t-14 border-teal-500">
       <nav class="container mx-auto flex flex-col sm:flex-row justify-between items-center py-8">
-
         <div class="mb-4 sm:mb-0">
           <h1 class="text-4xl font-bold w-full text-teal-500">Mirko Skopljak</h1>
         </div>
