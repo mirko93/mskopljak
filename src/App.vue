@@ -25,7 +25,7 @@
     <!-- end hero -->
 
     <div class="container-inner mx-auto">
-      <p class="text-xl">Hi, my name is Mirko. I'm from Serbia. I am a Technical School graduante in the field of Typography, and at the Vivify Academy in Novi Sad finished course for Basci Web Developer. I still consider mysqlf a beginner in programming. I am a persistent person who loves to study hard, learn new things and accept challenges.</p>
+      <p class="text-xl">Hi, my name is Mirko. I'm from Serbia. I am a Technical School graduante in the field of Typography, and at the Vivify Academy in Novi Sad finished course for Basic Web Developer. I still consider myself a beginner in programming. I am a persistent person who loves to study hard, learn new things and accept challenges.</p>
 
 
       <div class="flex justify-between items-center py-16">
