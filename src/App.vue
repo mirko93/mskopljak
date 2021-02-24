@@ -70,6 +70,7 @@
           <li class="checkmark mb-6">Final work at the academy I attended (PHP / MySQL) <a class="text-teal-500" href="https://github.com/mirko93/php-mini-projects/tree/master/blog" target="_blank">Blog</a></li>
           <li class="checkmark mb-6">Google Clone (PHP / MySQL / JS) <a class="text-teal-500" href="https://github.com/mirko93/php-mini-projects/tree/master/google-clone" target="_blank">Doodle :)</a></li>
           <li class="checkmark mb-6">Suggest Search <a class="text-teal-500" href="https://github.com/mirko93/php-mini-projects/tree/master/suggest-search" target="_blank">Search</a></li>
+          <li class="checkmark mb-6">Todo list (Java, Spring boot) <a class="text-teal-500" href="https://github.com/mirko93/" target="_blank">Todo</a></li>
         </ul>
       </div>
     <!-- end projects -->
