@@ -24,7 +24,7 @@
     <!-- end hero -->
 
     <div class="container-inner mx-auto">
-      <p class="text-xl">Hi, my name is Mirko. I'm from Serbia. I am a Technical School graduante in the field of Typography, and at the Vivify Academy in Novi Sad finished course for Basic Web Developer. I still consider myself a beginner in programming. I am a persistent person who loves to study hard, learn new things and accept challenges.</p>
+      <p class="text-xl">Hi, my name is Mirko. I'm from Serbia. I graduated from Technical High school for Typography, and at the Vivify Academy in Novi Sad finished course for Basic Web Developer. I still consider myself a beginner in programming. I am a persistent person who loves to study hard, learn new things and accept challenges.</p>
 
 
       <div class="flex justify-between items-center py-16">
@@ -46,14 +46,14 @@
         <ul class="ml-6">
           <li class="mb-6"> - Sep 2008 - June 2012 High school degree in Typography</li>
           <li class="mb-6"> - Oct 2019 - Jan 2020 Basic course Full Stack Web Programming - Vivify Academy</li>
-          <li class="mb-6"> - Udemy Course (The Web Developer Bootcamp, Build Responsive Real World Websites with HTML5 and CSS3, Java Programming Masterclass for Software Developers, etc...)</li>
+          <li class="mb-6"> - Udemy Course (The Web Developer Bootcamp, Build Responsive Real World Websites with HTML5 and CSS3, Java Programming Masterclass for Software Developers, Laravel API Development & Vue JS SPA from Scratch, etc...)</li>
         </ul>
         <div class="text-center mx-auto sm:mx-auto pt-6" >
           <img src="./assets/image/certificate.jpg" alt="sertifikat">
         </div>
-        <div class="text-center mx-auto sm:mx-auto pt-6" >
-          <img src="./assets/image/certificate2.jpg" alt="sertifikat">
-        </div>
+<!--        <div class="text-center mx-auto sm:mx-auto pt-6" >-->
+<!--          <img src="./assets/image/certificate2.jpg" alt="sertifikat">-->
+<!--        </div>-->
       </div>
     <!-- end projects -->
     </div>
@@ -64,9 +64,10 @@
 
         <p class="mb-6">I don't have a live project, everything I studied and worked on <a class="text-teal-500" href="https://github.com/mirko93" target="_blank">GitHub</a></p>
         <ul class="ml-6">
-          <li class="checkmark mb-6">Netflix-clone (PHP / MySQL / jQuery) <a class="text-teal-500" href="https://github.com/mirko93/NetflixClone" target="_blank">NetFlix-clone</a></li>
-          <li class="checkmark mb-6">Instagram-clone (Laravel / VueJs) <a class="text-teal-500" href="https://github.com/mirko93/instagram-clone" target="_blank">Instagram-clone</a></li>
-          <li class="checkmark mb-6">Contact Application (Laravel-API-VueJS) <a class="text-teal-500" href="https://github.com/mirko93/Laravel-API-VueJS" target="_blank">Contact App</a></li>
+          <li class="checkmark mb-6">Web Shop (Laravel / MySQL) <a class="text-teal-500" href="https://github.com/mirko93/Laravel-API-VueJS" target="_blank">Web Shop</a></li>
+          <li class="checkmark mb-6">Netflix-clone (HTML / CSS / PHP / MySQL / jQuery) <a class="text-teal-500" href="https://github.com/mirko93/NetflixClone" target="_blank">NetFlix-clone</a></li>
+          <li class="checkmark mb-6">Instagram-clone (Laravel / VueJs / Tailwindcss / SQL) <a class="text-teal-500" href="https://github.com/mirko93/instagram-clone" target="_blank">Instagram-clone</a></li>
+          <li class="checkmark mb-6">Contact Application (Laravel / API / VueJS / Tailwindcss / MySQL) <a class="text-teal-500" href="https://github.com/mirko93/Laravel-API-VueJS" target="_blank">Contact App</a></li>
           <li class="checkmark mb-6">Final work at the academy I attended (PHP / MySQL) <a class="text-teal-500" href="https://github.com/mirko93/php-mini-projects/tree/master/blog" target="_blank">Blog</a></li>
           <li class="checkmark mb-6">Google Clone (PHP / MySQL / JS) <a class="text-teal-500" href="https://github.com/mirko93/php-mini-projects/tree/master/google-clone" target="_blank">Doodle :)</a></li>
           <li class="checkmark mb-6">Suggest Search <a class="text-teal-500" href="https://github.com/mirko93/php-mini-projects/tree/master/suggest-search" target="_blank">Search</a></li>
